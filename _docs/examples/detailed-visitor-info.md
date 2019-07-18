@@ -16,6 +16,7 @@ Show visitor’s `name` and `email` in Smartsupp. It’s displayed in visitor in
 <script>
   smartsupp('name', 'John Doe');
   smartsupp('email', 'john.doe@example.com');
+  smartsupp('phone number', '0712345678');
 </script>
 ```
 
